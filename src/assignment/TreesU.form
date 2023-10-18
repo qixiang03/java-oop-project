@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea2">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Trees play a key role&#xa; in capturing &#xa;rainwater and &#xa;reducing the risk of&#xa; natural disasters&#xa; like floods and &#xa;landslides."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea4">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="A single tree can be&#xa;home to hundreds&#xa;of species and &#xa;animlas "/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea6">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Trees help reduce &#xa;stress and anxiety, &#xa;and allow us to &#xa;reconnect with &#xa;nature."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea3">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Trees help cool the &#xa;planet by sucking in&#xa;and storing harmful &#xa;greenhouse gases &#xa;like carbon dioxide&#xa;and release oxygen"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea5">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="From arborists to &#xa;loggers and &#xa;researchers, the job &#xa;opportunities &#xa;provided by the &#xa;forestry industry are&#xa;endless."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[900, 480]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jPanel3" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                                          <Component id="DirectoryLabel2" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="DirectoryLabel1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="101" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="DirectoryLabel3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="260" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="TitleLabel2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="174" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="DirectoryLabel1" min="-2" pref="22" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="DirectoryLabel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="DirectoryLabel3" min="-2" pref="17" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="TitleLabel2" min="-2" pref="50" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="TitleLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="159" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace pref="18" max="32767" attributes="0"/>
+                      <Component id="TitleLabel1" min="-2" pref="50" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="TitleLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI Symbol" size="24" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="WHY TREE ARE IMPORTANT TO THE ENVIRONMENT?"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="DirectoryLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Trees help clean the air we breathe, filter the water we drink, and provide habitat to over 80% of the world&apos;s terrestrial biodiversity."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DirectoryLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Forests provide jobs to over 1.6 billion people, absorb harmful carbon from the atmosphere, and are key ingredients in 25% of all"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DirectoryLabel3">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="medicines. Have you ever taken an Aspirin? It comes from the bark of a tree!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TitleLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI Symbol" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="6 PILLAR THAT EXPLAIN TREES ARE VITAL TO THE ENVIRONMENT "/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder/>
+              </Border>
+            </Property>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="ImgLabel1" min="-2" pref="108" max="-2" attributes="0"/>
+                              <Component id="DirectoryLabel4" max="32767" attributes="0"/>
+                              <Component id="DirectoryLabel5" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="DirectoryLabel6" alignment="0" max="32767" attributes="0"/>
+                              <Component id="DirectoryLabel7" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="DirectoryLabel13" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel12" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel11" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel10" max="32767" attributes="0"/>
+                          <Component id="ImgLabel2" min="-2" pref="108" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel8" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel9" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="ImgLabel3" min="-2" pref="108" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel16" min="-2" pref="108" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel14" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel15" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="28" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="DirectoryLabel19" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ImgLabel4" min="-2" pref="108" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel17" alignment="0" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel18" alignment="0" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel20" alignment="0" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel21" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="DirectoryLabel22" max="32767" attributes="0"/>
+                              <Component id="ImgLabel5" min="-2" pref="108" max="-2" attributes="0"/>
+                              <Component id="DirectoryLabel23" max="32767" attributes="0"/>
+                              <Component id="DirectoryLabel25" alignment="0" max="32767" attributes="0"/>
+                              <Component id="DirectoryLabel26" alignment="0" max="32767" attributes="0"/>
+                              <Component id="DirectoryLabel24" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="DirectoryLabel27" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="ImgLabel6" min="-2" pref="108" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel28" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel29" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel31" alignment="0" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel30" alignment="0" max="32767" attributes="0"/>
+                          <Component id="DirectoryLabel32" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="ImgLabel3" alignment="0" min="-2" pref="112" max="-2" attributes="0"/>
+                          <Component id="ImgLabel4" alignment="0" min="-2" pref="112" max="-2" attributes="0"/>
+                          <Component id="ImgLabel5" alignment="1" min="-2" pref="112" max="-2" attributes="0"/>
+                          <Component id="ImgLabel6" alignment="0" min="-2" pref="112" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="ImgLabel1" alignment="3" min="-2" pref="112" max="-2" attributes="0"/>
+                              <Component id="ImgLabel2" alignment="3" min="-2" pref="112" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="DirectoryLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel14" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel17" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel22" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel28" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="DirectoryLabel15" alignment="1" min="-2" pref="16" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="DirectoryLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="DirectoryLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="DirectoryLabel18" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="DirectoryLabel23" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="DirectoryLabel29" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="DirectoryLabel10" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="DirectoryLabel16" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="DirectoryLabel19" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="DirectoryLabel24" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="DirectoryLabel30" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="DirectoryLabel11" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="DirectoryLabel20" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="DirectoryLabel25" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="DirectoryLabel31" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="DirectoryLabel6" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="DirectoryLabel7" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="DirectoryLabel12" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel21" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel26" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel32" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="DirectoryLabel13" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DirectoryLabel27" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="12" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="ImgLabel1">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/image/air.jpg"/>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="ImgLabel2">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/image/water.jpg"/>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="ImgLabel3">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/image/bioadversity.jpg"/>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="ImgLabel4">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/image/health.jpg"/>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="ImgLabel5">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/image/climate.jpg"/>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="ImgLabel6">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/image/social impact.jpg"/>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel4">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Trees provide fresh"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel5">
+              <Properties>
+                <Property name="horizontalAlignment" type="int" value="2"/>
+                <Property name="text" type="java.lang.String" value="air and regulate"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel8">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Trees play a key role"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel9">
+              <Properties>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="in capturing rainwater"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel10">
+              <Properties>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="and reducing the risk"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel11">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="of natural disaster "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel12">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="like floods and "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel13">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="landslides."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel14">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="A single tree can be"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel15">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="a home of hundreds"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel16">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="of species."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel17">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Trees help us reduce"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel18">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="stress and anxiety,"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel19">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="and allow us to "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel20">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="reconnect with the "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel21">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="nature."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel22">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Trees help cool the "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel23">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="planet by sucking in "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel24">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="and storing harmful"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel25">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="greenhouses gas like"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel26">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="carbon dioxide and "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel28">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="From arborists to "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel29">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="loggers and researches"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel30">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="the job opportunities"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel31">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="provided by the forest"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel32">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="are endless."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel27">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="release oxygen "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel7">
+              <Properties>
+                <Property name="horizontalAlignment" type="int" value="2"/>
+                <Property name="text" type="java.lang.String" value="dioxide ratio."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="DirectoryLabel6">
+              <Properties>
+                <Property name="horizontalAlignment" type="int" value="2"/>
+                <Property name="text" type="java.lang.String" value="oxygen to carbon"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
